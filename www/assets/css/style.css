@@ -1,0 +1,27 @@
+html{
+	height: 100%;
+}
+
+body{
+	height: 100%;
+	margin: 0;
+}
+
+.bg-blue{
+	background-color: #008BDF !important;
+}
+
+.logo {
+	margin-top: 15%;
+}
+
+div.ui-input-text {
+    padding: 0px 0.4em;
+    border-radius: 20px;
+    background-color: #fff;
+    padding: 0px 15px;
+}
+
+.ui-body-c .ui-link:active {
+    color: #fff;
+}
